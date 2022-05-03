@@ -1,0 +1,9 @@
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\bin\Debug\Query_Builder.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\bin\Debug\Query_Builder.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\bin\Debug\Entities.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\bin\Debug\Entities.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\obj\Debug\Query_Builder.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\obj\Debug\Query_Builder.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\obj\Debug\Query_Builder.csproj.CopyComplete
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\obj\Debug\Query_Builder.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Query_Builder\obj\Debug\Query_Builder.pdb

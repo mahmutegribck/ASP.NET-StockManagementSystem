@@ -1,0 +1,35 @@
+﻿#menu_hr {
+    background: #000000;
+}
+
+    #menu_hr ul {
+        width: auto;
+        padding: 20px;
+    }
+
+        #menu_hr ul li {
+            list-style-type: none;
+            display: inline;
+            padding-right: 5px;
+        }
+
+            #menu_hr ul li a {
+                background-color: #000000;
+                padding: 10px 15px 10px 15px;
+                text-decoration: none;
+                color: #ffffff;
+                border-radius : 10px;
+                margin:15px;
+                font-size:larger;
+                
+            }
+
+                #menu_hr ul li a:hover {
+                    background-color: #ff0000;
+                    padding: 10px 15px 10px 15px;
+                    text-decoration: none;
+                    color: #ffffff;
+                    -ms-transform: scale(1.7);
+                    -webkit-transform: scale(1.3);
+                    transform: scale(1.3);
+                }

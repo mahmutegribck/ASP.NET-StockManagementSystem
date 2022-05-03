@@ -1,0 +1,1 @@
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\obj\Debug\SMS DAL.csproj.CoreCompileInputs.cache

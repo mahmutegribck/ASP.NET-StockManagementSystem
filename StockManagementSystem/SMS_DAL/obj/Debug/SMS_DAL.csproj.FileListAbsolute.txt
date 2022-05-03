@@ -1,0 +1,11 @@
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\obj\Debug\SMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\obj\Debug\SMS_DAL.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\bin\Debug\SMS_DAL.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\bin\Debug\SMS_DAL.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\bin\Debug\Entities.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\bin\Debug\Query_Builder.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\bin\Debug\Entities.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\bin\Debug\Query_Builder.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\obj\Debug\SMS_DAL.csproj.CopyComplete
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\obj\Debug\SMS_DAL.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS_DAL\obj\Debug\SMS_DAL.pdb

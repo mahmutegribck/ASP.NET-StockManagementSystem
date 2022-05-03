@@ -1,0 +1,60 @@
+﻿body {
+    font-family: Times New Roman, Tahoma, Verdana;
+}
+
+.addtable {
+    border-collapse: collapse;
+    border: 1px solid #000000;
+    padding: 10px;
+    width: 70%;
+}
+
+.addtableheader {
+    background: #db6c19;
+    text-align: left;
+    padding: 10px 15px 10px 15px;
+    color: #ffffff;
+    font-size: 1.5em;
+    border: 1px solid #db6c19;
+}
+
+.tdrow1 {
+    background-color: #c18558;
+    width: 300px;
+    padding: 5px 10px 5px 20px;
+    border: 1px solid #c18558;
+    font-weight: bold;
+}
+
+.tdrow2 {
+    border: 1px solid #c18558;
+    padding: 4px 10px 4px 10px;
+}
+
+.textbox {
+    padding: 3px 10px 3px 10px;
+    width: 250px;
+}
+
+.Btn {
+    padding: 7px 15px 7px 15px;
+    margin:10px;
+    background: #cb3131;
+    border: 1px solid #cb3131;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius:10px;
+
+}
+
+    .Btn:hover {
+        padding: 7px 10px 7px 10px;
+        background: #ff0000;
+        border: 1px solid #ff0000;
+        color: #000000;
+        font-weight: bold;
+        -ms-transform: scale(1.7);
+        -webkit-transform: scale(1.3);
+        transform: scale(1.3);
+    }
+

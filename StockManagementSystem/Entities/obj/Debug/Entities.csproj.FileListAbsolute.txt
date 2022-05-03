@@ -1,0 +1,5 @@
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Entities\bin\Debug\Entities.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Entities\bin\Debug\Entities.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Entities\obj\Debug\Entities.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,2 @@
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\obj\Debug\SMS BAL.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\obj\Debug\SMS BAL.csproj.CoreCompileInputs.cache

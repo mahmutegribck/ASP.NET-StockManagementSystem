@@ -1,0 +1,19 @@
+﻿body {
+    font-family: Times New Roman, Tahoma, Verdana;
+    width: 100%;
+    background-color: #d7d0d0;
+}
+
+
+.head_logo {
+    width: auto;
+    text-align: center;
+    border: 5px double #e9ad4e;
+    background-color: chocolate;
+    padding: 10px 15px 10px 15px;
+    color: #000000;
+    font-size: 2em;
+    color: white;
+    text-shadow: 4px 4px 4px  #000000 ;
+}
+    

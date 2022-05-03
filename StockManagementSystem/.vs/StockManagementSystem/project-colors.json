@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "204ab324-4e53-4917-8427-98a75e0f4069": {
+      "ProjectGuid": "204ab324-4e53-4917-8427-98a75e0f4069",
+      "DisplayName": "StockManagementSystem",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a94b69bf-3126-4a27-af47-a01294cdada6": {
+      "ProjectGuid": "a94b69bf-3126-4a27-af47-a01294cdada6",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "3d45dd62-67d5-4726-845b-1c043b0f0340": {
+      "ProjectGuid": "3d45dd62-67d5-4726-845b-1c043b0f0340",
+      "DisplayName": "Query_Builder",
+      "ColorIndex": 2
+    },
+    "a6c04d05-c80e-464a-8595-d80e6566b4f3": {
+      "ProjectGuid": "a6c04d05-c80e-464a-8595-d80e6566b4f3",
+      "DisplayName": "SMS_BAL",
+      "ColorIndex": 3
+    },
+    "2703c1f7-52ec-4083-8b99-968d6a4868bb": {
+      "ProjectGuid": "2703c1f7-52ec-4083-8b99-968d6a4868bb",
+      "DisplayName": "SMS_DAL",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

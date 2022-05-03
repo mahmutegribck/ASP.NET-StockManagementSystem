@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StockManagementSystem", "StockManagementSystem\", "{204AB324-4E53-4917-8427-98A75E0F4069}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{a94b69bf-3126-4a27-af47-a01294cdada6}|Entities.dll;{2703c1f7-52ec-4083-8b99-968d6a4868bb}|SMS_DAL.dll;{3d45dd62-67d5-4726-845b-1c043b0f0340}|Query_Builder.dll;{a6c04d05-c80e-464a-8595-d80e6566b4f3}|SMS BAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58952"
+		Debug.AspNetCompiler.PhysicalPath = "StockManagementSystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58952\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58952"
+		Release.AspNetCompiler.PhysicalPath = "StockManagementSystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58952\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58952"
+		SlnRelativePath = "StockManagementSystem\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{A94B69BF-3126-4A27-AF47-A01294CDADA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query_Builder", "Query_Builder\Query_Builder.csproj", "{3D45DD62-67D5-4726-845B-1C043B0F0340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS_BAL", "SMS BAL\SMS_BAL.csproj", "{A6C04D05-C80E-464A-8595-D80E6566B4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS_DAL", "SMS_DAL\SMS_DAL.csproj", "{2703C1F7-52EC-4083-8B99-968D6A4868BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204AB324-4E53-4917-8427-98A75E0F4069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204AB324-4E53-4917-8427-98A75E0F4069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204AB324-4E53-4917-8427-98A75E0F4069}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{204AB324-4E53-4917-8427-98A75E0F4069}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A94B69BF-3126-4A27-AF47-A01294CDADA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94B69BF-3126-4A27-AF47-A01294CDADA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94B69BF-3126-4A27-AF47-A01294CDADA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94B69BF-3126-4A27-AF47-A01294CDADA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D45DD62-67D5-4726-845B-1C043B0F0340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D45DD62-67D5-4726-845B-1C043B0F0340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D45DD62-67D5-4726-845B-1C043B0F0340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D45DD62-67D5-4726-845B-1C043B0F0340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C04D05-C80E-464A-8595-D80E6566B4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C04D05-C80E-464A-8595-D80E6566B4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C04D05-C80E-464A-8595-D80E6566B4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C04D05-C80E-464A-8595-D80E6566B4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2703C1F7-52EC-4083-8B99-968D6A4868BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2703C1F7-52EC-4083-8B99-968D6A4868BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2703C1F7-52EC-4083-8B99-968D6A4868BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2703C1F7-52EC-4083-8B99-968D6A4868BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3665907-9012-4CAA-9C93-8E48CF08A300}
+	EndGlobalSection
+EndGlobal

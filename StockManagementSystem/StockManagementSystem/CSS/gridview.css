@@ -1,0 +1,35 @@
+﻿#GridView1 {
+    background: #fafafa;
+    margin: 10px;
+}
+
+    #GridView1 th {
+        padding: 10px 15px 10px 15px;
+    }
+
+    #GridView1 .HeaderStyle {
+        background: #0066cc;
+        color: #ffffff;
+        padding: 7px 10px 7px 10px;
+    }
+
+    #GridView1 td {
+        padding: 5px 10px 5px 10px;
+        text-align: left;
+    }
+
+.addtable {
+    border-collapse: collapse;
+    border: 1px solid #ff0000;
+    padding: 10px;
+    width: 75%;
+}
+
+.addtableheader {
+    background: #FA5858;
+    text-align: left;
+    padding: 10px 15px 10px 15px;
+    color: #ff0000;
+    font-size: 1.5em;
+    border: 1px solid #ff0000;
+}

@@ -1,0 +1,13 @@
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\obj\Debug\SMS_BAL.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\SMS BAL.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\SMS BAL.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\Entities.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\Query_Builder.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\SMS_DAL.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\Entities.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\Query_Builder.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\bin\Debug\SMS_DAL.pdb
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\obj\Debug\SMS_BAL.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\obj\Debug\SMS_BAL.csproj.CopyComplete
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\obj\Debug\SMS BAL.dll
+C:\Users\mahmu\Desktop\webASp\StockManagementSystem\SMS BAL\obj\Debug\SMS BAL.pdb
